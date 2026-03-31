@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>蔡伃捷簡介</title>
+<title>張云甄簡介</title>
 	<style type="text/css">
 		* { font-family:"標楷體"; margin-left:auto; margin-right:auto;}
 		h1 {color:blue; font-size:60px;}
@@ -17,7 +17,7 @@
 
 		function change2() {
   			document.getElementById("pic").src = "static/cliff.jpg";
-  			document.getElementById("h2text").innerText = "Tsai Yu Jie";
+  			document.getElementById("h2text").innerText = "Chang yun chen";
 		}
 	</script>
 </head>
@@ -30,9 +30,8 @@
 			</td>
 
 			<td>
-
-	<h1>蔡伃捷<h1>
-	<h2 id="h2text">Tsai Yu Jie<h2>
+    <h1>張云甄<h1>
+	<h2 id="h2text">Chang yun chen<h2>
 		</td>
 		</tr>
 	</table>
