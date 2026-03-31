@@ -5,5 +5,5 @@ def Process(x):
 
 # 只有執行 exampple1.py 時，這段才會跑
 if
-Name = "我是靜宜大學 資管二A 蔡伃捷"
+Name = "我是靜宜大學 資管二A 張云甄"
 Process(Name)
