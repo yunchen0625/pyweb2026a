@@ -39,8 +39,8 @@
 		<tr>
 			<td>
 
-	Instagram:https:<a href="https://www.instagram.com/tsai_yu_jie.1221/"target="_blank">https://www.instagram.com/tsai_yu_jie.1221/</a><br>
-	E-Mail:<a href="mailto:s1131220@o365sy.pu.edu.tw"target="_blank">s1131220@o365sy.pu.edu.tw</a><br>
+	Instagram:https:<a href="https://www.instagram.com/avril_.625/"target="_blank">https://www.instagram.com/avril_.625/</a><br>
+	E-Mail:<a href="mailto:s1131216@o365st.pu.edu.tw"target="_blank">s1131216@o365st.pu.edu.tw</a><br>
 	</td>
 
 	<td>
